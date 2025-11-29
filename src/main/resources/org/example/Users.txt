@@ -1,0 +1,3 @@
+test@test.com P@ssw0rd!
+alice@example.com A1ice@123
+bob@example.com B0b@1234
